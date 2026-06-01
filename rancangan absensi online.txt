@@ -1,0 +1,55 @@
+STUDI KASUS
+absensi online v1.0.0 - php dan mysql
+
+LATAR BELAKANG
+absen masih manual, rentan terjadi kesalahan, admin kesulitan merekap absensi.
+
+TUJUAN
+absen online, laporan absensi real-time untuk admin
+
+KEBUTUHAN SISTEM
+1. frontend: html, css, javascript
+2. backend: php 7
+3. web server: apache / nginx
+4. datbase: mysql
+5. text editor: visual studio code / sublime text / dream weaver ataupun yang lainnya
+
+PERAN AKTOR
+1. Admin
+   - login
+   - manajemen user (tambah, ubah, hapus, lihat)
+   - lihat laporan absensi
+   - absen (masuk, pulang)
+   - riwayat absen
+   - logout
+
+2. User
+   - login
+   - absen (masuk, pulang)
+   - riwayat absen
+   - logout
+
+STRUKTUR DATABSE
+1. database: attendance_db
+
+ESTIMASI PENGEMBANGAN
+1. analisis dan desain database			 1 hari
+2. login, logout				 1 hari
+3. manajemen user (lihat, tambah, ubah, hapus)   3 hari
+4. absensi (masuk, pulang)			 1 hari
+5. riwayat absen				 1 hari
+6. laporan absensi				 1 hari
+
+
+
+====================================== SELAMAT MENGERJAKAN ======================================
+
+
+
+
+
+
+
+
+
+
